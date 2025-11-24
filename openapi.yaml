@@ -95,7 +95,7 @@ components:
     UserGreenland:
       description: ''
       type: object
-      title: User
+      title: User Greenland
       properties:
         userId:
           type: number
